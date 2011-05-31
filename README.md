@@ -21,16 +21,17 @@ The Kata says you should write a function to convert from normal numbers to Roma
      900 --> CM
      3000 -> MMM
 etc.
-For a full description of how it works, take a look at [this useful reference website](http://www.novaroma.org/via_romana/numbers.html): But basic symbols comes down to :
+For a full description of how it works, take a look at [this useful reference website](http://www.novaroma.org/via_romana/numbers.html).
 
-I = 1
-V = 5
-X = 10
-L = 50
-C = 100
-D = 500
-M = 1000
+But basic symbols comes down to :
 
+     I = 1
+     V = 5
+     X = 10
+     L = 50
+     C = 100
+     D = 500
+     M = 1000
 
 There is no need to be able to convert numbers larger than about 3000. (The Romans themselves didn't tend to go any higher)
 
@@ -43,5 +44,5 @@ Write a function to convert in the other direction, ie numeral to digit
 
 References :
 -------------
- [codingdojo.org](http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals) (where this description mainly comes from)
- [Videos katas in ruby](http://katas.softwarecraftsmanship.org/?p=21)
+* [codingdojo.org](http://codingdojo.org/cgi-bin/wiki.pl?KataRomanNumerals) (where this description mainly comes from)
+* [Videos katas in ruby](http://katas.softwarecraftsmanship.org/?p=21)
